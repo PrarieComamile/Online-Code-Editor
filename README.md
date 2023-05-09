@@ -31,7 +31,7 @@ Bu proje MIT lisansı altında yayınlanmıştır. Daha fazla bilgi için LICENS
 
 **Ekran Görüntüsü;**
 ------
-![Screenshot from 2023-05-10 00-10-11](https://github.com/PrarieComamile/Online-Code-Editor/assets/101043132/3bb3b3e0-6de0-4ee9-aa89-6562a1de9e80)
+![Screenshot from 2023-05-10 00-11-30](https://github.com/PrarieComamile/Online-Code-Editor/assets/101043132/6244f821-f498-49e9-9b22-dc36e42f0a68)
 
 
 
