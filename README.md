@@ -26,7 +26,7 @@ Proje, Flask sürümü 2.1.3 ve Python 3.10 ile uyumlu olarak geliştirilmiştir
 
 **Lisans**
 --------------------------------------
-Bu proje MIT lisansı altında yayınlanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
+Bu proje MIT lisansı altında yayınlanmıştır. Daha fazla bilgi için [LICENSE](https://github.com/PrarieComamile/Online-Code-Editor/blob/main/LICENSE) dosyasına bakabilirsiniz.
 
 
 **Ekran Görüntüsü;**
