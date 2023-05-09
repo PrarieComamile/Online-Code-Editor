@@ -65,7 +65,7 @@ This project is developed to be compatible with Flask version 2.1.3 and Python 3
 
 **License**
 -------------------------------------------------
-This project is released under the MIT License. For more information, see the LICENSE file.
+This project is released under the MIT License. For more information, see the [LICENSE](https://github.com/PrarieComamile/Online-Code-Editor/blob/main/LICENSE) file.
 
 
 
