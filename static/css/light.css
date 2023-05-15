@@ -56,10 +56,6 @@ button:hover {
     color: rgb(255, 255, 255);
     background-color: #333;
 }
-textarea {
-    
-    height: 500px;
-}
 #my_navbar{
     background-color: #545454;
 }
@@ -67,3 +63,52 @@ textarea {
 .navbar-brand {
     font-size: 25px;
 }
+
+.CodeMirror {
+    border-radius: 10px;
+    height: 70vh !important;
+}
+
+.result-textarea {
+    height: 70vh !important;
+    resize: none;
+    background-color: #f5f5f5 !important;
+}
+
+/* CodeMirror-Theme */
+.cm-s-juejin.CodeMirror {
+    background: #f5f5f5;
+  }
+  .cm-s-juejin .cm-header { 
+    color: #d200c0; 
+  }
+  .cm-s-juejin .cm-def {
+    color: #1ba2f0;
+  }
+  .cm-s-juejin .cm-comment {
+    color: #009e9d;
+  }
+  .cm-s-juejin .cm-quote,
+  .cm-s-juejin .cm-link,
+  .cm-s-juejin .cm-strong,
+  .cm-s-juejin .cm-attribute {
+    color: #fd7741;
+  }
+  .cm-s-juejin .cm-url,
+  .cm-s-juejin .cm-keyword,
+  .cm-s-juejin .cm-builtin {
+    color: #bb51b8;
+  }
+  .cm-s-juejin .cm-hr {
+    color: #909090;
+  }
+  .cm-s-juejin .cm-tag {
+    color: #107000;
+  }
+  .cm-s-juejin .cm-variable-2 {
+    color: #0050a0;
+  }
+  .cm-s-juejin span.cm-string {
+    color: #0a7800; 
+  }
+  
