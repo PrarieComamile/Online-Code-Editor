@@ -78,6 +78,10 @@ button:hover {
     color:rgb(255, 255, 255) !important;
 }
 
+.form-floating textarea {
+    padding-top: 1% !important;
+}
+
 
 /* CodeMirror-Theme */
 .cm-s-juejin.CodeMirror, .cm-s-juejin .CodeMirror-gutters {
